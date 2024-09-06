@@ -1,0 +1,8 @@
+streamlit
+nltk
+pickle
+pandas
+re
+streamlit-option-menu
+requests
+scikit-learn

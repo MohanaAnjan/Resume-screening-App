@@ -1,8 +1,8 @@
-streamlit
-nltk
 pickle
 pandas
 re
 streamlit-option-menu
 requests
 scikit-learn
+streamlit==1.38.0
+nltk==3.9.1
